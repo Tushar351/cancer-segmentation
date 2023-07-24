@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![Image Alt Text](Cancer_seg_output.jpg)
+![Image Alt Text](Cancer_seg_output.png)
 
 ## Overview
 
