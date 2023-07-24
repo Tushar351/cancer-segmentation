@@ -5,7 +5,7 @@
 ![Image Alt Text](Cancer_seg_output.png)
 
 ## Overview
-
+The Cancer Segmentation API is an advanced deep learning tool designed to identify and segment cancerous regions within medical images. This API leverages state-of-the-art deep learning techniques, powered by TensorFlow, to provide accurate and reliable cancer segmentation results. The API is intended to assist medical professionals in diagnosing and planning treatments for cancer patients more effectively.
 
 ## Key Features
 
